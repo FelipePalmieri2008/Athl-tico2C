@@ -1,0 +1,9 @@
+body{text-align: center;}
+#ima1{width: 20%;}
+#ima1 {border-color: rgb(22, 3, 3);
+       border-width: 8px;
+    border-style: double;}
+    .parte01 {background-color: rgb(196, 113, 113);}
+    .parte02 {background-color: rgb(77, 69, 69);}
+h4 {text-align: center;
+    font-size: 200%;}
